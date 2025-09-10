@@ -1,0 +1,17 @@
+=========
+By Keywords
+
+(site:go.id OR site:mil.id) ("hacked by" OR "pwned by" OR "seized by" OR "defaced by" OR "stamped by")
+=========
+
+=========
+By Threat Actor/Notifier
+
+(site:go.id OR site:mil.id) ("Hacktivist of Garuda" OR "Just Z " OR "MATIGAN1337" OR "LenteraBawahOfc" OR "Kelelawar Cyber Team" OR "Indonesian Hacktivist​" OR "Mr.Spongebob" OR "L4663r666h05t" OR "K3NZOU​" OR "One Hat Cyber Team" OR "Naskleng54" OR "CAISAR ID" OR "Hacktivist Of Garuda​" OR "Mr.Kyy404" OR "LANGITDEV" OR "God Of Server​" OR "FurryFemboy" OR "HideNSeek" OR "Fais01" OR "CAISAR ID​" OR "Anon7​" OR "0xAngel")​
+=========
+
+=========
+By Issue
+
+(site:go.id OR site:mil.id) ("#ADILI_POLRI" OR "#KAMI_MASIH_ADA" OR "#KoruptorKontol" OR "#OPDPR" OR "#PrayForOjol" OR "#resetindonesia" OR "#OPPolisi" OR "#Panjangumurperjuangan" OR "#StopPoliceBrutality" OR "#BubarkanDPR" OR "#Indonesiadarurat" OR "#RIPDEMOKRASI" OR "#daruratdemokrasi")
+=========
